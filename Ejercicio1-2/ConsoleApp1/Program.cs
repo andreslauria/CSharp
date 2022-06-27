@@ -1,4 +1,6 @@
-﻿namespace ConsoleApp1
+﻿
+
+namespace ConsoleApp1
 {
     internal class Program
     {
@@ -11,6 +13,8 @@
             DateTime horaDePc = DateTime.Now;
             Console.Write("\nLa hora actual es: ");
             Console.WriteLine(horaDePc.Hour + ":" + horaDePc.Minute + ":" + horaDePc.Second);
+
+            
         }
     }
 }
