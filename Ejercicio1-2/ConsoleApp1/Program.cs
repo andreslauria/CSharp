@@ -1,6 +1,6 @@
 ﻿
 
-namespace ConsoleApp1
+namespace Sesion1 
 {
     internal class Program
     {

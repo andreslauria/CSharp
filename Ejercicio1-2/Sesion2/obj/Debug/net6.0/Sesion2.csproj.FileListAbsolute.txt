@@ -1,0 +1,15 @@
+F:\OpenBootCamp\CSharp\Ejercicio1-2\Sesion2\bin\Debug\net6.0\Sesion2.exe
+F:\OpenBootCamp\CSharp\Ejercicio1-2\Sesion2\bin\Debug\net6.0\Sesion2.deps.json
+F:\OpenBootCamp\CSharp\Ejercicio1-2\Sesion2\bin\Debug\net6.0\Sesion2.runtimeconfig.json
+F:\OpenBootCamp\CSharp\Ejercicio1-2\Sesion2\bin\Debug\net6.0\Sesion2.dll
+F:\OpenBootCamp\CSharp\Ejercicio1-2\Sesion2\bin\Debug\net6.0\Sesion2.pdb
+F:\OpenBootCamp\CSharp\Ejercicio1-2\Sesion2\obj\Debug\net6.0\Sesion2.csproj.AssemblyReference.cache
+F:\OpenBootCamp\CSharp\Ejercicio1-2\Sesion2\obj\Debug\net6.0\Sesion2.GeneratedMSBuildEditorConfig.editorconfig
+F:\OpenBootCamp\CSharp\Ejercicio1-2\Sesion2\obj\Debug\net6.0\Sesion2.AssemblyInfoInputs.cache
+F:\OpenBootCamp\CSharp\Ejercicio1-2\Sesion2\obj\Debug\net6.0\Sesion2.AssemblyInfo.cs
+F:\OpenBootCamp\CSharp\Ejercicio1-2\Sesion2\obj\Debug\net6.0\Sesion2.csproj.CoreCompileInputs.cache
+F:\OpenBootCamp\CSharp\Ejercicio1-2\Sesion2\obj\Debug\net6.0\Sesion2.dll
+F:\OpenBootCamp\CSharp\Ejercicio1-2\Sesion2\obj\Debug\net6.0\refint\Sesion2.dll
+F:\OpenBootCamp\CSharp\Ejercicio1-2\Sesion2\obj\Debug\net6.0\Sesion2.pdb
+F:\OpenBootCamp\CSharp\Ejercicio1-2\Sesion2\obj\Debug\net6.0\Sesion2.genruntimeconfig.cache
+F:\OpenBootCamp\CSharp\Ejercicio1-2\Sesion2\obj\Debug\net6.0\ref\Sesion2.dll
