@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\OpenBootCamp\\CSharp\\Ejercicio1-2\\ConsoleApp1\\Sesion1.csproj",
+      "projectUniqueName": "F:\\OpenBootCamp\\CSharp\\Ejercicios\\Sesion1\\Sesion1.csproj",
       "projectName": "Sesion1",
-      "projectPath": "F:\\OpenBootCamp\\CSharp\\Ejercicio1-2\\ConsoleApp1\\Sesion1.csproj",
+      "projectPath": "F:\\OpenBootCamp\\CSharp\\Ejercicios\\Sesion1\\Sesion1.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "F:\\OpenBootCamp\\CSharp\\Ejercicio1-2\\ConsoleApp1\\obj\\",
+      "outputPath": "F:\\OpenBootCamp\\CSharp\\Ejercicios\\Sesion1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
